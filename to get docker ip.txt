@@ -1,0 +1,4 @@
+Open up a Command Prompt Window (cmd.exe).
+Assuming that you have run the Docker Quickstart Terminal and that the ‘default’ Docker machine was created, give the following command:
+
+docker-machine ls
